@@ -6,13 +6,13 @@ body{
 .text{
   color:#DC143C;
   text-align: center;
-  font-family: Comic Sans MS, Comic Sans;
+  font-family: Marker Felt, fantasy;
 }
 
 .lovetext{
   color:white;
   text-align: center;
-  font-family: Comic Sans MS, Comic Sans;
+  font-family: Marker Felt, fantasy;
   border: 5px solid #BC8F8F;
   border-radius: 30px;
   background-color: gray;
@@ -22,7 +22,7 @@ body{
 .textbutton{
   color:#DC143C;
   text-align: center;
-  font-family: Comic Sans MS, Comic Sans;
+  font-family: Marker Felt, fantasy;
   font-size: 30px;
 }
 
