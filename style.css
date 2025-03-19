@@ -1,0 +1,67 @@
+body{
+    background: radial-gradient(#FFE4E1, #FFE4E1, #BC8F8F);
+    margin: 0%;
+  }
+
+.text{
+  color:#DC143C;
+  text-align: center;
+  font-family: Comic Sans MS, Comic Sans;
+}
+
+.lovetext{
+  color:white;
+  text-align: center;
+  font-family: Comic Sans MS, Comic Sans;
+  border: 5px solid #BC8F8F;
+  border-radius: 30px;
+  background-color: gray;
+  opacity: 0.5;
+}
+
+.textbutton{
+  color:#DC143C;
+  text-align: center;
+  font-family: Comic Sans MS, Comic Sans;
+  font-size: 30px;
+}
+
+.foto{
+  width: 240px;
+  height: 320px;
+  margin-top: 20px;
+
+  border-radius: 30px;
+}
+
+.spit{
+  width: 240px;
+  height: 400px;
+  margin-top: 20px;
+
+  border-radius: 30px;
+}
+
+.seksy{
+  width: 300px;
+  height: 300px;
+  margin-top: 20px;
+
+  border-radius: 30px;
+}
+
+.lyagushonok{
+  width: 240px;
+  height: 320px;
+  margin-top: 20px;
+
+  border-radius: 30px;
+}
+
+.ng{
+  width: 240px;
+  height: 320px;
+  margin-top: 20px;
+  border-radius: 30px;
+  margin-left: 75px;
+}

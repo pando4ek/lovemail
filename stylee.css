@@ -1,0 +1,14 @@
+body{
+    background-image: url('img/heart.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+    height: 790px;
+  }
+
+.textbutton{
+    color:#DC143C;
+    margin-left: 100px;
+    font-family: Comic Sans MS, Comic Sans;
+    font-size: 30px;
+  }
