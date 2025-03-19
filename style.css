@@ -1,18 +1,17 @@
 body{
     background: radial-gradient(#FFE4E1, #FFE4E1, #BC8F8F);
     margin: 0%;
+    font-family: Marker Felt, fantasy;
   }
 
 .text{
   color:#DC143C;
   text-align: center;
-  font-family: Marker Felt, fantasy;
 }
 
 .lovetext{
   color:white;
   text-align: center;
-  font-family: Marker Felt, fantasy;
   border: 5px solid #BC8F8F;
   border-radius: 30px;
   background-color: gray;
@@ -22,7 +21,6 @@ body{
 .textbutton{
   color:#DC143C;
   text-align: center;
-  font-family: Marker Felt, fantasy;
   font-size: 30px;
 }
 
