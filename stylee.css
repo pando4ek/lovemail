@@ -4,11 +4,11 @@ body{
     background-size: cover;
     margin: 0%;
     height: 790px;
+    font-family: Marker Felt, fantasy;
   }
 
 .textbutton{
     color:#DC143C;
     margin-left: 100px;
-    font-family: Marker Felt, fantasy;
     font-size: 30px;
   }
